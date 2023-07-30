@@ -1,0 +1,13 @@
+#Ignore all LaTeX generated file
+
+*.aux
+*.fdb_latexmk
+*.fls
+*.log
+*.synctex.gz
+*.toc
+*.out
+*.bbl
+*.bcf
+*.blg
+*.xml
